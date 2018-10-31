@@ -1,2 +1,8 @@
-# PL_SQL-Project
-It is a PL/SQL project of Distributed Database System. This contains only the backend codes. It has no user interface. It is run using the sqlplus command line of ORACLE10g. The project is based on the distribution of blood bank tables.
+Software requirements: Oracle 10g, SQL*PLUS
+SQLPlus is a command line interface tool which is used to access Oracle databases. 
+After installing Oracle 10g, you can find the SQLPLUS command line using the following path: C:\oraclexe\app\oracle\product\10.2.0\server\BIN
+After launching it, enter username and password that you was set in the installation process.
+Normally we use system as username and the password during installation can be anything.
+For the distribution part. You can use two or more Operating systems to access the tables and to manipulate them. 
+You can install an OS in VMWare and then use it. For establishing connection between two individual OS see the video 
+https://www.youtube.com/watch?v=OAnh6H7NfTY&feature=youtu.be
